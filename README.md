@@ -12,6 +12,7 @@ Current aims for this project:
   - Check for inproper values and make player reinput if there is an error. DONE
   - Continually check the board to see if someone has won yet. IN PROGRESS
   - End the game once someone has won and tell the player(s) who won. IN PROGRESS
+    Currently in development but may be rewritten completly!
 
   - Develop an AI that will play a human player.
   - Give the AI 3 modes - easy, medium and HARD.
